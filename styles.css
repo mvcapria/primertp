@@ -1,0 +1,264 @@
+section {
+    display: flex;
+    border: 2px solid black;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+div {
+    width: 300px;
+    height: 300px;
+    background-color: beige;
+    border: 2px solid black;
+}
+
+.title{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    text-align: center;
+    padding: 5px;
+    border-color:orange;
+    border-radius: 13px;
+    border-width: 5px;
+}
+
+.titleOne{
+   color: blueviolet;
+}
+
+.imagencafe {
+    width: 150px;
+    border-radius: 10%;
+    flex-direction: column;
+    align-content: center;
+    display:flexbox;
+}
+
+.titleOne:hover{
+    background-color: yellow
+}
+
+.first {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    text-align: center;
+    padding: 5px;
+    border-color:red;
+    border-radius: 13px;
+    border-width: 5px;
+}
+
+.coffee{
+    color: brown;
+}
+
+.latte {
+    width: 130px;
+    border-radius: 10%;
+    flex-direction: column;
+    align-content: center;
+    display:flexbox;
+    }
+
+.coffee:hover{
+    background-color:darksalmon
+}
+
+.second {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    text-align: center;
+    padding: 5px;
+    border-color:blue;
+    border-radius: 13px;
+    border-width: 5px;
+}
+
+.coffeeTwo {
+    color: deeppink;
+}
+
+.imagencap{
+    width: 170px;
+    border-radius: 10%;
+    flex-direction: column;
+    align-content: center;
+    display:flexbox;
+}
+
+.coffeeTwo:hover{
+    background-color: cadetblue;
+}
+
+.third {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    text-align: center;
+    padding: 5px;
+    border-color:green;
+    border-radius: 13px;
+    border-width: 5px;
+}
+
+.coffeeThree{
+    color: orangered;
+}
+
+.imagenmacc {
+    width: 170px;
+    border-radius: 10%;
+    flex-direction: column;
+    align-content: center;
+    display:flexbox;
+}
+
+.coffeeThree:hover {
+    background-color: cornflowerblue;
+}
+
+.fourth {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    text-align: center;
+    padding: 5px;
+    border-color:yellowgreen;
+    border-radius: 13px;
+    border-width: 5px;
+}
+
+.coffeeFour{
+    color:dodgerblue;
+}
+
+.mocha {
+    width: 230px;
+    border-radius: 10%;
+    flex-direction: column;
+    align-content: center;
+    display:flexbox;
+}
+
+.coffeeFour:hover{
+    background-color: black;
+}
+
+.fifth{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    text-align: center;
+    padding: 5px;
+    border-color:yellowgreen;
+    border-radius: 13px;
+    border-width: 5px;
+}
+
+.coffeeFive{
+    color: cadetblue;
+}
+
+.flatWhite{
+    width: 200px;
+    border-radius: 10%;
+    flex-direction: column;
+    align-content: center;
+    display:flexbox;  
+}
+
+.coffeeFive:hover{
+    background-color:burlywood;
+}
+
+.sixth{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    text-align: center;
+    padding: 5px;
+    border-color:darkblue;
+    border-radius: 13px;
+    border-width: 5px;
+}
+.coffeeSix{
+    color: blue;
+}
+
+.americano{
+    width: 160px;
+    border-radius: 10%;
+    flex-direction: column;
+    align-content: center;
+    display:flexbox; 
+}
+
+.coffeeSix:hover{
+    background-color: chocolate;
+}
+
+.seventh{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    text-align: center;
+    padding: 5px;
+    border-color:orchid;
+    border-radius: 13px;
+    border-width: 5px;
+}
+
+.coffeeSeven{
+    color: darkgoldenrod;
+}
+
+.espresso{
+    width: 160px;
+    border-radius: 10%;
+    flex-direction: column;
+    align-content: center;
+    display:flexbox; 
+}
+
+.coffeeSeven:hover{
+    background-color: coral;
+}
+
+.eighth{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-items: center;
+    text-align: center;
+    padding: 5px;
+    border-color:darkmagenta;
+    border-radius: 13px;
+    border-width: 5px;
+}
+
+.favorite{
+    color:darkslategrey;
+}
+
+.myCoffee{
+    width: 110px;
+    border-radius: 10%;
+    flex-direction: column;
+    align-content: center;
+    display:flexbox; 
+}
+
+.favorite:hover{
+    background-color: black;
+}
